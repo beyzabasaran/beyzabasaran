@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
 
 <br /><br />
-- 👀 I’m interested in software developing
-- 🎓 Currently studying Computer Engineering in Dokuz Eylul University
-- ✨ Currently used and improving programming languages **Java,Python,C#, C, Java Swing, ABAP**
+- 👀 I’m interested in _software developing_
+- 🎓 Currently studying Computer Engineering at Dokuz Eylul University
+- ✨ Currently used and improving programming languages **_Java,Python,C#, C, Java Swing, ABAP_**
 - 🌱 Currently using **macOS, Windows, debian/Linux**
 - :relaxed: Always looking to collaborate 
 - 🌐 Willing to work fast paced and team based environment
