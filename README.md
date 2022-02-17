@@ -2,7 +2,7 @@
 
 <br /><br />
 - 👀 I’m interested in _software developing_
-- 🎓 Currently studying Computer Engineering at Dokuz Eylul University
+- 🎓 Currently studying Computer Engineering
 - ✨ Currently used and improving programming languages **_Java,Python,C#, C, Java Swing, ABAP_**
 - 🌱 Currently using **macOS, Windows, debian/Linux**
 - :relaxed: Always looking to collaborate 
