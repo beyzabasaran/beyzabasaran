@@ -30,3 +30,7 @@
 </p>
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzabasaran&label=Profile%20views&color=0e75b6&style=flat" alt="beyzabasaran" /> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzabasaran&layout=compact)](https://github.com/beyzabasaran/beyzabasaran.git)
+
+![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzabasaran&show_icons=true&theme=radical)
