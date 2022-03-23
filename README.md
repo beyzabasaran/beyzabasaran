@@ -4,7 +4,7 @@
 - 👀 I’m interested in _software developing_
 - 🎓 Currently studying Computer Engineering
 - ✨ Currently used and improving programming languages **_Java,Python,C#, C, ABAP_**
-- 🌱 Currently using **macOS, Windows, debian/Linux**
+- 🌱 Currently using **MacOS, Windows, Ubuntu/Debian Linux**
 - :relaxed: Always looking to collaborate 
 - 🌐 Willing to work fast paced and team based environment
 
