@@ -4,7 +4,7 @@
 - 👀 I’m interested in _software developing_
 - 🎓 Currently working as a Software Engineer at a Global Firm
 - ✨ Currently used and improving programming languages **_Java, JavaScript, TypeScript, Node.js, Python, C#, C, ABAP_**
-- 🌱 Currently using **MacOS, Windows, Ubuntu/Debian Linux**
+- 🌱 Currently using **MacOS, Windows, Linux**
 - :relaxed: Always looking to collaborate 
 - 🌐 Willing to work fast paced and team based environment
 
